@@ -1,0 +1,6 @@
+Construcciones:
+Construccion tipo: CASA (Pendientes: 1, En Proceso: 0, Terminados: 0)
+Construccion tipo: LAGO (Pendientes: 0, En Proceso: 0, Terminados: 0)
+Construccion tipo: CANCHA_FUTBOL (Pendientes: 0, En Proceso: 0, Terminados: 0)
+Construccion tipo: EDIFICIO (Pendientes: 0, En Proceso: 0, Terminados: 0)
+Construccion tipo: GIMNACIO (Pendientes: 0, En Proceso: 0, Terminados: 0)

@@ -1,0 +1,96 @@
+{
+  "nombre": "Ciudadela futuro",
+  "ce": 1024.00,
+  "gr": 1000.00,
+  "ar": 1040.00,
+  "ma": 1070.00,
+  "ad": 1050.00,
+  "fechaInicio": "2021-07-26",
+  "fechaEntrega": "2021-08-03",
+  "ordenes": [
+    {
+      "tipo": "CASA",
+      "ordenes": [
+        {
+          "nroOrden": 3,
+          "estado": "PENDIENTE",
+          "tipo": "CASA",
+          "fechaRegistro": "2021-07-26",
+          "fechaInicio": "2021-07-27",
+          "fechaFinal": "2021-07-30"
+        },
+        {
+          "nroOrden": 14,
+          "estado": "PENDIENTE",
+          "tipo": "CASA",
+          "fechaRegistro": "2021-07-26",
+          "fechaInicio": "2021-07-31",
+          "fechaFinal": "2021-08-03"
+        }
+      ],
+      "ordenesPendientes": [
+        {
+          "nroOrden": 3,
+          "estado": "PENDIENTE",
+          "tipo": "CASA",
+          "fechaRegistro": "2021-07-26",
+          "fechaInicio": "2021-07-27",
+          "fechaFinal": "2021-07-30"
+        },
+        {
+          "nroOrden": 14,
+          "estado": "PENDIENTE",
+          "tipo": "CASA",
+          "fechaRegistro": "2021-07-26",
+          "fechaInicio": "2021-07-31",
+          "fechaFinal": "2021-08-03"
+        }
+      ],
+      "ordenesEnProceso": [],
+      "ordenesTerminadas": [],
+      "totalPendientes": 2,
+      "totalEnProceso": 0,
+      "totalTerminadas": 0
+    },
+    {
+      "tipo": "LAGO",
+      "ordenes": [],
+      "ordenesPendientes": [],
+      "ordenesEnProceso": [],
+      "ordenesTerminadas": [],
+      "totalPendientes": 0,
+      "totalEnProceso": 0,
+      "totalTerminadas": 0
+    },
+    {
+      "tipo": "CANCHA_FUTBOL",
+      "ordenes": [],
+      "ordenesPendientes": [],
+      "ordenesEnProceso": [],
+      "ordenesTerminadas": [],
+      "totalPendientes": 0,
+      "totalEnProceso": 0,
+      "totalTerminadas": 0
+    },
+    {
+      "tipo": "EDIFICIO",
+      "ordenes": [],
+      "ordenesPendientes": [],
+      "ordenesEnProceso": [],
+      "ordenesTerminadas": [],
+      "totalPendientes": 0,
+      "totalEnProceso": 0,
+      "totalTerminadas": 0
+    },
+    {
+      "tipo": "GIMNACIO",
+      "ordenes": [],
+      "ordenesPendientes": [],
+      "ordenesEnProceso": [],
+      "ordenesTerminadas": [],
+      "totalPendientes": 0,
+      "totalEnProceso": 0,
+      "totalTerminadas": 0
+    }
+  ]
+}
